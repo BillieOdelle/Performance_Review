@@ -13,3 +13,6 @@ Visual Studio Code - python queries to understand the data types we are working 
 
 I used PostgreSQL to combine all data sources into one cleased dataset for basic queriying
 
+Link to Tableau Public Profile:  https://public.tableau.com/app/profile/billie.gore/viz/PerformanceReview_17321890977480/Dashboard
+
+
